@@ -1,0 +1,2 @@
+# Heart-Disease-Trends
+According to the World Health Organization, cardiovascular disease is the number one cause of death worldwide. Given its significance, it is important to understand the risk factors for heart health problems to help develop creative and effective strategies to combat cardiovascular disease. The purpose of this project is to identify trends in heart health data to predict cardiovascular health status and the likelihood of certain cardiovascular events.
